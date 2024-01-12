@@ -1,0 +1,91 @@
+        Cancer Immunology - 101
+
+        Some interesting tips and knowledge points from someone who is smarter than me. sSeth - Master in Immunology; Published articles. 
+
+        *********************************************************************************************************
+        |   TL;DR:                                                                                               |
+        |    Try to prevent yourself from getting cancer; getting sick is a good thing.                          | 
+        |    Stay physically fit. 'Bigger MK cell count'.                                                        |
+        |    If you do get cancer - consult a LOT of experts, do not go for the first thing that is offered.     |
+        |    Chemotherapy (single treatment): Good results are a "latency to death" not measured on survival.    |
+        |    Although it has its placed, it is not good to only do one thing such as 'Chemo'.                    |
+        |    Get lean muscle math and keep fit.                                                                  |
+        |    Got cancer? Get a really bad fever."Hypothermia Cancer Treatment Austria"                           |
+        |                           Dr kleef.                                                                    |
+         *********************************************************************************************************  
+
+Origin : How cancer starts and acts -  "Your only option is not only getting blasted with chemo until you die".
+   
+a) Failure in programmed cell death. 
+    Cell is transformed and 'pre' cancerous, essentially the cell doesn't communicate to die. endless copies.
+    Cell can have 'Necrosis' or turn into a 'Phagocyte' (hehe)
+    All of these things are B.A.D.
+
+b) Failure of immunosurveillance. 
+    Every day cancer cells die within your body which means your immune system is good. 
+    If this does not happen, tissue then builds and cell becomes a "Apoptotic" cell. 
+    T cells main adaptive cells / B cells and natural killer cells in your immune system .
+    Most cells in the body are 'Dyploid' but in sexual organs you have 'Haploid' cells which can lead to confusion by immune system. Pancreas as well. 
+    Eye cancer is a bit different because of the way T-cells are composed; 
+
+HLA Complex : 'How our immunity sees' -- has a lot of combinations or "unique_id".
+    BIG TAKE AWAY : THE COMBINATION FROM MOTHER AND FATHER WILL LEAD TO YOUR OWN UNIQUE HLA.
+    This is expressed on the surface of every cell ... your very own unique code with lock+key. 
+    ANYTHING WITHOUT THIS unique_id == DEAD ON SIGHT by your immune system .
+    Everyone .. and I mean EVERYONE.. has their own unique HLA ; there are no two that are the same, unless it is an identical twin ## even between siblings there is a huge difference. 
+    Funny enough; find a partner that is most "Immunologically compatible" for strong kids. 
+
+Immunology theory ; "In the beginning there was self". 
+
+    Older theory: Identify self vs. Identifying non - self. 
+        It was believed that cells had a very clear self marker (MHC/HLA) and that cells that did not have them had Antigen and were clearly identified as non-self cells. 
+            Until Polly Matzinger dropped a bomb. 
+            The theory no one liked: 'Danger theory' 
+            Everyone thought she was wrong (ex playboy bunny) but turned out she was right. 
+            It's not just the the (MHC/HLA) it turns out you can also put yourself in danger and cause damage. 
+            You can cause an autoimmune attack through severe damage/trauma to a tissue, which will induce said cancer because the T-cells consider that tissue as 'foreign'
+                This lead to the now 'combined theory' self + danger = autoimmune response. 
+
+
+Development :   "So what happens if cell is not treated"
+
+    Cancer Immunoediting Theory :  
+        On a normal cycle - it goes through elimination and it deletes a lot of the cancer cells - think of cancer as not "one cell" - they are clusters. 
+        However, there will come a point where the cancel cells do not fear the immune system anymore so they are able to thrive and eventually win due to immunoediting. 
+
+    Treatments : " Broad mordality vs. Opinion. " - there is not a lot of competition going on. 
+
+         Chemotherapy/Mono-therapy: induces tumor cell selection. - one treatment , bad if not combined. 
+            Before antibiotic = few bacteria are resistant but majority are sensitive to treatment. 
+            After exposure = only resistant bacteria remain - "natural selection". 
+            Post selection = Vastly increased proportion of resistance in new generation of bacteria. 
+            If only treated with one factor -- the new cells are all resistant to the antibiotic so the whole tumor becomes immune. 
+        
+         Surgery : Usually highly effective, but can be 'double-edged'
+            If not treated correctly and any cells remain, this can be very bad. 
+            Body sees damage > tissue repair > cancer gets stronger due to trauma induced from outside factors. 
+            This helps the tumor hide better than it already was. 
+            Tumor tissue = heterogenous tissue  , which can from microenvironment for the tumor to hide in. 
+                    ________________________________________________________________________________________________________________________________________________________________ 
+                    |    Future treatments (everything from before + immunotherapy): "No more competition let's work together". (Immunologically / Immunotherapy)                   |
+                    |    Cancer cells - they are adapting and are effective over long term as a survival mechanism due to being broken metabolically.                               |
+                    |    Cancer cells <3 'stasis' but they HATE abrupt environmental change 'Because they die'.                                                                     |
+                    |    Therefore, induce environmental stress to kill tumors.                                                                                                     |
+                    |    # ACUTE ENVIROMENT STRESS IS THE  BEST WAY TO KILL A TUMOR. ** Low-dose checkpoint inhibitors with IL-2 + fever range hyperthermia; Immunotherapy. ** #    |
+                    |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+                    | Heat shock protein' are made inside of a cell and exported to ensure that all protein stays folded at high temps.                                             |        
+                    |    This is required for the cancer to survive, but these proteins have two problems.                                                                          |    
+                    |     One) Cancer cells do not want to get spotted, but to export their own heat shock protein, cancer cells need to restart the process of cell communication. |
+                    |             This will lead to the immune system catching the cancer cell and will be attacked / killed.                                                       |
+                    |             If this is not restarted, the fever will kill the cancer.                                                                                         |       
+                    |_______________________________________________________________________________________________________________________________________________________________|
+                
+
+        Prevention methods : Can be used in combination with therapies. 
+            Nutrient therapy > Zinc / Omega - 3 : all have cancer preventive properties. 
+            Muscle usage (IL - 6) : Due to MK cells being very 'dumb' they make great allies because of this. 
+            Chemoprevention : 
+            Vaccine prophylaxis : 
+            Mestasis blockers : 
+            Diagnostic screening : 
+        
